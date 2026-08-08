@@ -23,3 +23,18 @@ The C++ side provides the underlying **GameObject, EntityManager, camera, input,
 * Entity and GameObject management
 * OpenGL-based 3D rendering
 * Multi-scene cinematic sequencing
+
+
+### Screenshots
+
+<img width="1282" height="679" alt="Screenshot 2026-08-08 030346" src="https://github.com/user-attachments/assets/36b2b0ca-a210-41d0-84af-f6ae0f930cb2" />
+
+
+
+<img width="1292" height="651" alt="Screenshot 2026-08-08 030433" src="https://github.com/user-attachments/assets/0a81dc03-5964-49b2-9497-19fa4406afc1" />
+
+
+
+<img width="1242" height="649" alt="Screenshot 2026-08-08 030402" src="https://github.com/user-attachments/assets/62bddc55-f39a-4a96-940e-e8cc2aed6f92" />
+
+
